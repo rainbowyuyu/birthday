@@ -1,2 +1,2 @@
 xdg-utils
-firefox
+w3m
